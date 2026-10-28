@@ -1,0 +1,5 @@
+Python: 3.12.3
+System: Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.39
+PyTorch: 2.14.1+cu130
+CUDA dostępna: False
+Brakujące moduły: google-genai
